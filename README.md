@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Muhammad Zain Ashiq — a passionate Front-End Developer from Pakistan.<br><br>💻 I specialize in HTML, CSS, JavaScript, Bootstrap, and React.<br>🚀 Currently exploring full-stack development and building cool projects.<br>📫 Let's connect: zain.ashiq613
+Hi, I'm Muhammad Zain Ashiq — a passionate Front-End Developer from Pakistan.<br><br>💻 I specialize in HTML, CSS, JavaScript, Bootstrap, and React.<br>🚀 Currently exploring full-stack development and building cool projects.<br>📫 Let's connect: zainashiq613
 
 
 ## 🌐 Socials:
